@@ -1,5 +1,6 @@
 format=1
-version=1.0.0
+version=1.0.4
 telechargement=https://github.com/Starshadekt/tba-updates/releases
 
+cle=0b2c79f844a9fa60ed105b31c3e3d744683bf5603f82dfa1d9ad7520b91377cc
 cle=1fe3557923f43359bdf56e1520c956a1c0a0e99b1258189b515c98f8a95959f2
