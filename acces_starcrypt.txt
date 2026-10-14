@@ -1,1 +1,5 @@
 format=1
+version=2026-10-11 11:21
+telechargement=https://drive.google.com/file/d/17Wfp__eGPE3wOh28jRm_NVsF0UrNm_BC/view?usp=sharing
+
+cle=ad083c4cd273fa0c8443ed0a06aaf4d295ad13c22c99bb09ae6ac891f78c36bd
